@@ -2,6 +2,7 @@
 - 👀 I’m interested in data
 - 🌱 I’m currently learning data analyst
 - 📫 How to reach me linkedin.com/in/alyawijaksono or alya.ainun@yahoo.com
+- 📜 My Curriculum Vitae https://bit.ly/2Pm455k
 
 <!---
 alewizanov/alewizanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
