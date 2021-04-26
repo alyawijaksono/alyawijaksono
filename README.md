@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alewizanov
+- 👋 Hi, I’m @alewizanov aka Alya or Ale
 - 👀 I’m interested in data
 - 🌱 I’m currently learning data analyst
 - 📫 How to reach me https://linkedin.com/in/alyawijaksono or alya.ainun@yahoo.com
